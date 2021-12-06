@@ -1,0 +1,4 @@
+include ':aries-agent (1)'
+include ':aries-agent'
+include ':app'
+rootProject.name = "Digi Yathra"
